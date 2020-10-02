@@ -1,3 +1,3 @@
 # newrepo
-to learn more about repos
-priyal bansal is a hardworking person
+To learn more about github
+
